@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**DFKato/DFKato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am DFKato (Damián Ferreyra - Alias Kato) a system administrator based in Argentina.
 
-Here are some ideas to get you started:
+I code book-standard projects to practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in neurosciences, videogames and herbology.
+
+If you want to reach me, use my email or discord kato_3755.
+You can choose either English or Spanish.
+
+## Fun facts:
+- I have a cat and drink coffe twice a day.
+- I am a boy-scout and I will be it until I die.
+- I love cinema and I spend a lot of time memorizing Spanish voice actors.
+- Big Brother is watching you.
