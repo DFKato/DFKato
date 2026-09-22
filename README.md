@@ -6,7 +6,7 @@ I code book-standard projects to practice.
 
 I am interested in neurosciences, videogames and herbology.
 
-If you want to reach me, use my email or discord kato_3755.
+If you want to reach me, use my email.
 You can choose either English or Spanish.
 
 ## Fun facts:
